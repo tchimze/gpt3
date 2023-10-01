@@ -1,0 +1,7 @@
+.gpt3__header-content__input input {
+    flex: 2;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+
+fz20px}
